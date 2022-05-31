@@ -1,0 +1,600 @@
+Round: 0| client: 9, class: 2
+Round: 0| client: 6, class: 4
+Round: 0| client: 5, class: 1
+Round: 0| client: 8, class: 2
+Round: 0| client: 7, class: 4
+Round: 0| client: 1, class: 0
+Round: 0| client: 0, class: 0
+Round: 0| client: 4, class: 1
+Round: 0| client: 2, class: 3
+Round: 0| client: 3, class: 3
+Correct: 5, Incorrect: 0
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 1| client: 9, class: 0
+Round: 1| client: 6, class: 4
+Round: 1| client: 5, class: 2
+Round: 1| client: 8, class: 0
+Round: 1| client: 7, class: 3
+Round: 1| client: 1, class: 1
+Round: 1| client: 0, class: 1
+Round: 1| client: 4, class: 2
+Round: 1| client: 2, class: 4
+Round: 1| client: 3, class: 4
+Correct: 9, Incorrect: 1
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 2| client: 9, class: 0
+Round: 2| client: 6, class: 2
+Round: 2| client: 5, class: 4
+Round: 2| client: 8, class: 0
+Round: 2| client: 7, class: 2
+Round: 2| client: 1, class: 1
+Round: 2| client: 0, class: 1
+Round: 2| client: 4, class: 4
+Round: 2| client: 2, class: 3
+Round: 2| client: 3, class: 3
+Correct: 14, Incorrect: 1
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 3| client: 9, class: 2
+Round: 3| client: 6, class: 0
+Round: 3| client: 5, class: 3
+Round: 3| client: 8, class: 2
+Round: 3| client: 7, class: 0
+Round: 3| client: 1, class: 1
+Round: 3| client: 0, class: 1
+Round: 3| client: 4, class: 3
+Round: 3| client: 2, class: 4
+Round: 3| client: 3, class: 4
+Correct: 19, Incorrect: 1
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 4| client: 9, class: 0
+Round: 4| client: 6, class: 4
+Round: 4| client: 5, class: 2
+Round: 4| client: 8, class: 0
+Round: 4| client: 7, class: 4
+Round: 4| client: 1, class: 3
+Round: 4| client: 0, class: 3
+Round: 4| client: 4, class: 2
+Round: 4| client: 2, class: 1
+Round: 4| client: 3, class: 1
+Correct: 24, Incorrect: 1
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 5| client: 9, class: 4
+Round: 5| client: 6, class: 0
+Round: 5| client: 5, class: 2
+Round: 5| client: 8, class: 4
+Round: 5| client: 7, class: 0
+Round: 5| client: 1, class: 1
+Round: 5| client: 0, class: 1
+Round: 5| client: 4, class: 3
+Round: 5| client: 2, class: 1
+Round: 5| client: 3, class: 1
+Correct: 28, Incorrect: 2
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 6| client: 9, class: 1
+Round: 6| client: 6, class: 4
+Round: 6| client: 5, class: 2
+Round: 6| client: 8, class: 3
+Round: 6| client: 7, class: 4
+Round: 6| client: 1, class: 0
+Round: 6| client: 0, class: 0
+Round: 6| client: 4, class: 2
+Round: 6| client: 2, class: 1
+Round: 6| client: 3, class: 1
+Correct: 32, Incorrect: 3
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 7| client: 9, class: 3
+Round: 7| client: 6, class: 2
+Round: 7| client: 5, class: 0
+Round: 7| client: 8, class: 3
+Round: 7| client: 7, class: 2
+Round: 7| client: 1, class: 4
+Round: 7| client: 0, class: 4
+Round: 7| client: 4, class: 0
+Round: 7| client: 2, class: 1
+Round: 7| client: 3, class: 1
+Correct: 37, Incorrect: 3
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 8| client: 9, class: 0
+Round: 8| client: 6, class: 3
+Round: 8| client: 5, class: 1
+Round: 8| client: 8, class: 2
+Round: 8| client: 7, class: 3
+Round: 8| client: 1, class: 0
+Round: 8| client: 0, class: 0
+Round: 8| client: 4, class: 1
+Round: 8| client: 2, class: 4
+Round: 8| client: 3, class: 4
+Correct: 41, Incorrect: 4
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 9| client: 9, class: 1
+Round: 9| client: 6, class: 3
+Round: 9| client: 5, class: 2
+Round: 9| client: 8, class: 1
+Round: 9| client: 7, class: 3
+Round: 9| client: 1, class: 0
+Round: 9| client: 0, class: 0
+Round: 9| client: 4, class: 2
+Round: 9| client: 2, class: 4
+Round: 9| client: 3, class: 4
+Correct: 46, Incorrect: 4
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 10| client: 9, class: 0
+Round: 10| client: 6, class: 1
+Round: 10| client: 5, class: 3
+Round: 10| client: 8, class: 0
+Round: 10| client: 7, class: 1
+Round: 10| client: 1, class: 4
+Round: 10| client: 0, class: 4
+Round: 10| client: 4, class: 3
+Round: 10| client: 2, class: 2
+Round: 10| client: 3, class: 2
+Correct: 51, Incorrect: 4
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 11| client: 9, class: 1
+Round: 11| client: 6, class: 2
+Round: 11| client: 5, class: 3
+Round: 11| client: 8, class: 1
+Round: 11| client: 7, class: 2
+Round: 11| client: 1, class: 4
+Round: 11| client: 0, class: 4
+Round: 11| client: 4, class: 3
+Round: 11| client: 2, class: 0
+Round: 11| client: 3, class: 0
+Correct: 56, Incorrect: 4
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 12| client: 9, class: 2
+Round: 12| client: 6, class: 3
+Round: 12| client: 5, class: 1
+Round: 12| client: 8, class: 2
+Round: 12| client: 7, class: 3
+Round: 12| client: 1, class: 0
+Round: 12| client: 0, class: 0
+Round: 12| client: 4, class: 4
+Round: 12| client: 2, class: 2
+Round: 12| client: 3, class: 2
+Correct: 60, Incorrect: 5
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 13| client: 9, class: 0
+Round: 13| client: 6, class: 1
+Round: 13| client: 5, class: 4
+Round: 13| client: 8, class: 3
+Round: 13| client: 7, class: 1
+Round: 13| client: 1, class: 2
+Round: 13| client: 0, class: 2
+Round: 13| client: 4, class: 4
+Round: 13| client: 2, class: 3
+Round: 13| client: 3, class: 3
+Correct: 64, Incorrect: 6
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 14| client: 9, class: 1
+Round: 14| client: 6, class: 1
+Round: 14| client: 5, class: 2
+Round: 14| client: 8, class: 1
+Round: 14| client: 7, class: 1
+Round: 14| client: 1, class: 4
+Round: 14| client: 0, class: 4
+Round: 14| client: 4, class: 0
+Round: 14| client: 2, class: 3
+Round: 14| client: 3, class: 3
+Correct: 68, Incorrect: 7
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 15| client: 9, class: 2
+Round: 15| client: 6, class: 1
+Round: 15| client: 5, class: 2
+Round: 15| client: 8, class: 2
+Round: 15| client: 7, class: 1
+Round: 15| client: 1, class: 0
+Round: 15| client: 0, class: 0
+Round: 15| client: 4, class: 4
+Round: 15| client: 2, class: 3
+Round: 15| client: 3, class: 3
+Correct: 72, Incorrect: 8
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 16| client: 9, class: 3
+Round: 16| client: 6, class: 1
+Round: 16| client: 5, class: 4
+Round: 16| client: 8, class: 3
+Round: 16| client: 7, class: 1
+Round: 16| client: 1, class: 2
+Round: 16| client: 0, class: 2
+Round: 16| client: 4, class: 4
+Round: 16| client: 2, class: 0
+Round: 16| client: 3, class: 0
+Correct: 77, Incorrect: 8
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 17| client: 9, class: 1
+Round: 17| client: 6, class: 4
+Round: 17| client: 5, class: 3
+Round: 17| client: 8, class: 1
+Round: 17| client: 7, class: 0
+Round: 17| client: 1, class: 2
+Round: 17| client: 0, class: 2
+Round: 17| client: 4, class: 4
+Round: 17| client: 2, class: 4
+Round: 17| client: 3, class: 4
+Correct: 80, Incorrect: 10
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 18| client: 9, class: 1
+Round: 18| client: 6, class: 0
+Round: 18| client: 5, class: 3
+Round: 18| client: 8, class: 1
+Round: 18| client: 7, class: 0
+Round: 18| client: 1, class: 1
+Round: 18| client: 0, class: 1
+Round: 18| client: 4, class: 4
+Round: 18| client: 2, class: 1
+Round: 18| client: 3, class: 2
+Correct: 83, Incorrect: 12
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 19| client: 9, class: 2
+Round: 19| client: 6, class: 1
+Round: 19| client: 5, class: 0
+Round: 19| client: 8, class: 2
+Round: 19| client: 7, class: 1
+Round: 19| client: 1, class: 3
+Round: 19| client: 0, class: 3
+Round: 19| client: 4, class: 0
+Round: 19| client: 2, class: 4
+Round: 19| client: 3, class: 4
+Correct: 88, Incorrect: 12
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 20| client: 9, class: 4
+Round: 20| client: 6, class: 4
+Round: 20| client: 5, class: 4
+Round: 20| client: 8, class: 0
+Round: 20| client: 7, class: 1
+Round: 20| client: 1, class: 3
+Round: 20| client: 0, class: 3
+Round: 20| client: 4, class: 4
+Round: 20| client: 2, class: 4
+Round: 20| client: 3, class: 2
+Correct: 90, Incorrect: 15
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 21| client: 9, class: 4
+Round: 21| client: 6, class: 3
+Round: 21| client: 5, class: 1
+Round: 21| client: 8, class: 1
+Round: 21| client: 7, class: 3
+Round: 21| client: 1, class: 1
+Round: 21| client: 0, class: 1
+Round: 21| client: 4, class: 0
+Round: 21| client: 2, class: 2
+Round: 21| client: 3, class: 1
+Correct: 92, Incorrect: 18
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 22| client: 9, class: 2
+Round: 22| client: 6, class: 0
+Round: 22| client: 5, class: 1
+Round: 22| client: 8, class: 2
+Round: 22| client: 7, class: 0
+Round: 22| client: 1, class: 3
+Round: 22| client: 0, class: 3
+Round: 22| client: 4, class: 1
+Round: 22| client: 2, class: 4
+Round: 22| client: 3, class: 4
+Correct: 97, Incorrect: 18
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 23| client: 9, class: 0
+Round: 23| client: 6, class: 4
+Round: 23| client: 5, class: 4
+Round: 23| client: 8, class: 0
+Round: 23| client: 7, class: 4
+Round: 23| client: 1, class: 3
+Round: 23| client: 0, class: 3
+Round: 23| client: 4, class: 4
+Round: 23| client: 2, class: 2
+Round: 23| client: 3, class: 1
+Correct: 101, Incorrect: 19
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 24| client: 9, class: 1
+Round: 24| client: 6, class: 1
+Round: 24| client: 5, class: 1
+Round: 24| client: 8, class: 3
+Round: 24| client: 7, class: 1
+Round: 24| client: 1, class: 1
+Round: 24| client: 0, class: 2
+Round: 24| client: 4, class: 1
+Round: 24| client: 2, class: 4
+Round: 24| client: 3, class: 0
+Correct: 103, Incorrect: 22
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 25| client: 9, class: 4
+Round: 25| client: 6, class: 4
+Round: 25| client: 5, class: 4
+Round: 25| client: 8, class: 1
+Round: 25| client: 7, class: 4
+Round: 25| client: 1, class: 2
+Round: 25| client: 0, class: 2
+Round: 25| client: 4, class: 3
+Round: 25| client: 2, class: 0
+Round: 25| client: 3, class: 0
+Correct: 106, Incorrect: 24
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 26| client: 9, class: 1
+Round: 26| client: 6, class: 2
+Round: 26| client: 5, class: 2
+Round: 26| client: 8, class: 1
+Round: 26| client: 7, class: 0
+Round: 26| client: 1, class: 4
+Round: 26| client: 0, class: 4
+Round: 26| client: 4, class: 2
+Round: 26| client: 2, class: 3
+Round: 26| client: 3, class: 3
+Correct: 110, Incorrect: 25
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 27| client: 9, class: 3
+Round: 27| client: 6, class: 0
+Round: 27| client: 5, class: 2
+Round: 27| client: 8, class: 1
+Round: 27| client: 7, class: 0
+Round: 27| client: 1, class: 0
+Round: 27| client: 0, class: 0
+Round: 27| client: 4, class: 0
+Round: 27| client: 2, class: 4
+Round: 27| client: 3, class: 4
+Correct: 113, Incorrect: 27
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 28| client: 9, class: 4
+Round: 28| client: 6, class: 1
+Round: 28| client: 5, class: 3
+Round: 28| client: 8, class: 1
+Round: 28| client: 7, class: 0
+Round: 28| client: 1, class: 1
+Round: 28| client: 0, class: 1
+Round: 28| client: 4, class: 3
+Round: 28| client: 2, class: 2
+Round: 28| client: 3, class: 2
+Correct: 116, Incorrect: 29
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 29| client: 9, class: 3
+Round: 29| client: 6, class: 2
+Round: 29| client: 5, class: 1
+Round: 29| client: 8, class: 4
+Round: 29| client: 7, class: 2
+Round: 29| client: 1, class: 2
+Round: 29| client: 0, class: 2
+Round: 29| client: 4, class: 1
+Round: 29| client: 2, class: 0
+Round: 29| client: 3, class: 0
+Correct: 120, Incorrect: 30
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 30| client: 9, class: 3
+Round: 30| client: 6, class: 1
+Round: 30| client: 5, class: 2
+Round: 30| client: 8, class: 3
+Round: 30| client: 7, class: 4
+Round: 30| client: 1, class: 1
+Round: 30| client: 0, class: 1
+Round: 30| client: 4, class: 2
+Round: 30| client: 2, class: 0
+Round: 30| client: 3, class: 0
+Correct: 124, Incorrect: 31
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 31| client: 9, class: 1
+Round: 31| client: 6, class: 0
+Round: 31| client: 5, class: 3
+Round: 31| client: 8, class: 1
+Round: 31| client: 7, class: 0
+Round: 31| client: 1, class: 0
+Round: 31| client: 0, class: 0
+Round: 31| client: 4, class: 0
+Round: 31| client: 2, class: 2
+Round: 31| client: 3, class: 4
+Correct: 127, Incorrect: 33
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 32| client: 9, class: 0
+Round: 32| client: 6, class: 1
+Round: 32| client: 5, class: 1
+Round: 32| client: 8, class: 2
+Round: 32| client: 7, class: 1
+Round: 32| client: 1, class: 1
+Round: 32| client: 0, class: 1
+Round: 32| client: 4, class: 1
+Round: 32| client: 2, class: 4
+Round: 32| client: 3, class: 3
+Correct: 130, Incorrect: 35
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 33| client: 9, class: 4
+Round: 33| client: 6, class: 0
+Round: 33| client: 5, class: 1
+Round: 33| client: 8, class: 2
+Round: 33| client: 7, class: 1
+Round: 33| client: 1, class: 1
+Round: 33| client: 0, class: 1
+Round: 33| client: 4, class: 1
+Round: 33| client: 2, class: 3
+Round: 33| client: 3, class: 3
+Correct: 133, Incorrect: 37
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 34| client: 9, class: 2
+Round: 34| client: 6, class: 0
+Round: 34| client: 5, class: 4
+Round: 34| client: 8, class: 2
+Round: 34| client: 7, class: 0
+Round: 34| client: 1, class: 0
+Round: 34| client: 0, class: 0
+Round: 34| client: 4, class: 3
+Round: 34| client: 2, class: 0
+Round: 34| client: 3, class: 1
+Correct: 136, Incorrect: 39
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 35| client: 9, class: 2
+Round: 35| client: 6, class: 4
+Round: 35| client: 5, class: 3
+Round: 35| client: 8, class: 1
+Round: 35| client: 7, class: 4
+Round: 35| client: 1, class: 1
+Round: 35| client: 0, class: 1
+Round: 35| client: 4, class: 1
+Round: 35| client: 2, class: 0
+Round: 35| client: 3, class: 0
+Correct: 139, Incorrect: 41
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 36| client: 9, class: 3
+Round: 36| client: 6, class: 4
+Round: 36| client: 5, class: 0
+Round: 36| client: 8, class: 3
+Round: 36| client: 7, class: 1
+Round: 36| client: 1, class: 1
+Round: 36| client: 0, class: 1
+Round: 36| client: 4, class: 0
+Round: 36| client: 2, class: 2
+Round: 36| client: 3, class: 2
+Correct: 143, Incorrect: 42
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 37| client: 9, class: 2
+Round: 37| client: 6, class: 1
+Round: 37| client: 5, class: 1
+Round: 37| client: 8, class: 2
+Round: 37| client: 7, class: 1
+Round: 37| client: 1, class: 1
+Round: 37| client: 0, class: 1
+Round: 37| client: 4, class: 4
+Round: 37| client: 2, class: 0
+Round: 37| client: 3, class: 3
+Correct: 146, Incorrect: 44
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 38| client: 9, class: 0
+Round: 38| client: 6, class: 0
+Round: 38| client: 5, class: 2
+Round: 38| client: 8, class: 1
+Round: 38| client: 7, class: 0
+Round: 38| client: 1, class: 0
+Round: 38| client: 0, class: 0
+Round: 38| client: 4, class: 3
+Round: 38| client: 2, class: 4
+Round: 38| client: 3, class: 4
+Correct: 149, Incorrect: 46
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 39| client: 9, class: 3
+Round: 39| client: 6, class: 1
+Round: 39| client: 5, class: 0
+Round: 39| client: 8, class: 3
+Round: 39| client: 7, class: 1
+Round: 39| client: 1, class: 1
+Round: 39| client: 0, class: 1
+Round: 39| client: 4, class: 0
+Round: 39| client: 2, class: 2
+Round: 39| client: 3, class: 4
+Correct: 153, Incorrect: 47
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 40| client: 9, class: 0
+Round: 40| client: 6, class: 2
+Round: 40| client: 5, class: 2
+Round: 40| client: 8, class: 0
+Round: 40| client: 7, class: 2
+Round: 40| client: 1, class: 2
+Round: 40| client: 0, class: 2
+Round: 40| client: 4, class: 4
+Round: 40| client: 2, class: 3
+Round: 40| client: 3, class: 1
+Correct: 156, Incorrect: 49
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 41| client: 9, class: 0
+Round: 41| client: 6, class: 2
+Round: 41| client: 5, class: 2
+Round: 41| client: 8, class: 0
+Round: 41| client: 7, class: 3
+Round: 41| client: 1, class: 2
+Round: 41| client: 0, class: 2
+Round: 41| client: 4, class: 4
+Round: 41| client: 2, class: 1
+Round: 41| client: 3, class: 1
+Correct: 159, Incorrect: 51
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 42| client: 9, class: 1
+Round: 42| client: 6, class: 1
+Round: 42| client: 5, class: 0
+Round: 42| client: 8, class: 2
+Round: 42| client: 7, class: 1
+Round: 42| client: 1, class: 1
+Round: 42| client: 0, class: 1
+Round: 42| client: 4, class: 0
+Round: 42| client: 2, class: 3
+Round: 42| client: 3, class: 4
+Correct: 162, Incorrect: 53
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 43| client: 9, class: 0
+Round: 43| client: 6, class: 1
+Round: 43| client: 5, class: 3
+Round: 43| client: 8, class: 0
+Round: 43| client: 7, class: 1
+Round: 43| client: 1, class: 1
+Round: 43| client: 0, class: 1
+Round: 43| client: 4, class: 1
+Round: 43| client: 2, class: 4
+Round: 43| client: 3, class: 2
+Correct: 165, Incorrect: 55
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 44| client: 9, class: 4
+Round: 44| client: 6, class: 2
+Round: 44| client: 5, class: 0
+Round: 44| client: 8, class: 4
+Round: 44| client: 7, class: 2
+Round: 44| client: 1, class: 2
+Round: 44| client: 0, class: 2
+Round: 44| client: 4, class: 2
+Round: 44| client: 2, class: 3
+Round: 44| client: 3, class: 1
+Correct: 168, Incorrect: 57
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 45| client: 9, class: 1
+Round: 45| client: 6, class: 1
+Round: 45| client: 5, class: 1
+Round: 45| client: 8, class: 3
+Round: 45| client: 7, class: 1
+Round: 45| client: 1, class: 2
+Round: 45| client: 0, class: 1
+Round: 45| client: 4, class: 1
+Round: 45| client: 2, class: 0
+Round: 45| client: 3, class: 4
+Correct: 170, Incorrect: 60
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 46| client: 9, class: 4
+Round: 46| client: 6, class: 0
+Round: 46| client: 5, class: 2
+Round: 46| client: 8, class: 3
+Round: 46| client: 7, class: 0
+Round: 46| client: 1, class: 0
+Round: 46| client: 0, class: 0
+Round: 46| client: 4, class: 0
+Round: 46| client: 2, class: 1
+Round: 46| client: 3, class: 0
+Correct: 172, Incorrect: 63
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 47| client: 9, class: 1
+Round: 47| client: 6, class: 2
+Round: 47| client: 5, class: 0
+Round: 47| client: 8, class: 2
+Round: 47| client: 7, class: 2
+Round: 47| client: 1, class: 2
+Round: 47| client: 0, class: 2
+Round: 47| client: 4, class: 0
+Round: 47| client: 2, class: 3
+Round: 47| client: 3, class: 4
+Correct: 175, Incorrect: 65
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 48| client: 9, class: 1
+Round: 48| client: 6, class: 1
+Round: 48| client: 5, class: 0
+Round: 48| client: 8, class: 1
+Round: 48| client: 7, class: 1
+Round: 48| client: 1, class: 2
+Round: 48| client: 0, class: 2
+Round: 48| client: 4, class: 1
+Round: 48| client: 2, class: 4
+Round: 48| client: 3, class: 3
+Correct: 178, Incorrect: 67
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 49| client: 9, class: 0
+Round: 49| client: 6, class: 0
+Round: 49| client: 5, class: 2
+Round: 49| client: 8, class: 3
+Round: 49| client: 7, class: 0
+Round: 49| client: 1, class: 0
+Round: 49| client: 0, class: 0
+Round: 49| client: 4, class: 1
+Round: 49| client: 2, class: 0
+Round: 49| client: 3, class: 4
+Correct: 180, Incorrect: 70
+= = = = = = = = = = = = = = = = = = = = = = = = 

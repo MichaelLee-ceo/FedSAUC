@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FedML-IoT/FedML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FedML-Server/FedML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fedml-iot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fedml-server" vcs="Git" />
+  </component>
+</project>

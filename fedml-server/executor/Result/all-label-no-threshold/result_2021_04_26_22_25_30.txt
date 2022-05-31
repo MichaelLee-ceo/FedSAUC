@@ -1,0 +1,750 @@
+Round: 0| client: 7, class: 3
+Round: 0| client: 8, class: 2
+Round: 0| client: 9, class: 2
+Round: 0| client: 6, class: 3
+Round: 0| client: 5, class: 0
+Round: 0| client: 4, class: 0
+Round: 0| client: 0, class: 1
+Round: 0| client: 3, class: 4
+Round: 0| client: 2, class: 4
+Round: 0| client: 1, class: 1
+classes: [{4, 5}, {0, 1}, {8, 9}, {6, 7}, {2, 3}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 1.0, Error rate: 0.0
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 1| client: 7, class: 3
+Round: 1| client: 8, class: 4
+Round: 1| client: 9, class: 4
+Round: 1| client: 6, class: 3
+Round: 1| client: 5, class: 0
+Round: 1| client: 4, class: 0
+Round: 1| client: 0, class: 2
+Round: 1| client: 3, class: 1
+Round: 1| client: 2, class: 1
+Round: 1| client: 1, class: 2
+classes: [{4, 5}, {2, 3}, {0, 1}, {6, 7}, {8, 9}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 1.0, Error rate: 0.0
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 2| client: 7, class: 4
+Round: 2| client: 8, class: 2
+Round: 2| client: 9, class: 2
+Round: 2| client: 6, class: 4
+Round: 2| client: 5, class: 1
+Round: 2| client: 4, class: 1
+Round: 2| client: 0, class: 0
+Round: 2| client: 3, class: 3
+Round: 2| client: 2, class: 3
+Round: 2| client: 1, class: 0
+classes: [{0, 1}, {4, 5}, {8, 9}, {2, 3}, {6, 7}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 1.0, Error rate: 0.0
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 3| client: 7, class: 2
+Round: 3| client: 8, class: 3
+Round: 3| client: 9, class: 3
+Round: 3| client: 6, class: 2
+Round: 3| client: 5, class: 4
+Round: 3| client: 4, class: 4
+Round: 3| client: 0, class: 1
+Round: 3| client: 3, class: 0
+Round: 3| client: 2, class: 0
+Round: 3| client: 1, class: 1
+classes: [{2, 3}, {0, 1}, {6, 7}, {8, 9}, {4, 5}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 1.0, Error rate: 0.0
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 4| client: 7, class: 1
+Round: 4| client: 8, class: 3
+Round: 4| client: 9, class: 0
+Round: 4| client: 6, class: 1
+Round: 4| client: 5, class: 2
+Round: 4| client: 4, class: 2
+Round: 4| client: 0, class: 4
+Round: 4| client: 3, class: 0
+Round: 4| client: 2, class: 0
+Round: 4| client: 1, class: 4
+classes: [{9, 2, 3}, {6, 7}, {4, 5}, {8}, {0, 1}]
+Error: [0, 0, 0, 1, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.98, Error rate: 0.02
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 5| client: 7, class: 2
+Round: 5| client: 8, class: 3
+Round: 5| client: 9, class: 3
+Round: 5| client: 6, class: 2
+Round: 5| client: 5, class: 0
+Round: 5| client: 4, class: 0
+Round: 5| client: 0, class: 4
+Round: 5| client: 3, class: 1
+Round: 5| client: 2, class: 1
+Round: 5| client: 1, class: 4
+classes: [{4, 5}, {2, 3}, {6, 7}, {8, 9}, {0, 1}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 0.9833333333333333, Error rate: 0.016666666666666666
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 6| client: 7, class: 0
+Round: 6| client: 8, class: 1
+Round: 6| client: 9, class: 1
+Round: 6| client: 6, class: 0
+Round: 6| client: 5, class: 4
+Round: 6| client: 4, class: 4
+Round: 6| client: 0, class: 3
+Round: 6| client: 3, class: 2
+Round: 6| client: 2, class: 2
+Round: 6| client: 1, class: 3
+classes: [{6, 7}, {8, 9}, {2, 3}, {0, 1}, {4, 5}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 0.9857142857142858, Error rate: 0.014285714285714285
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 7| client: 7, class: 4
+Round: 7| client: 8, class: 0
+Round: 7| client: 9, class: 0
+Round: 7| client: 6, class: 4
+Round: 7| client: 5, class: 1
+Round: 7| client: 4, class: 1
+Round: 7| client: 0, class: 2
+Round: 7| client: 3, class: 3
+Round: 7| client: 2, class: 3
+Round: 7| client: 1, class: 2
+classes: [{8, 9}, {4, 5}, {0, 1}, {2, 3}, {6, 7}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 0.9875, Error rate: 0.0125
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 8| client: 7, class: 4
+Round: 8| client: 8, class: 0
+Round: 8| client: 9, class: 0
+Round: 8| client: 6, class: 4
+Round: 8| client: 5, class: 1
+Round: 8| client: 4, class: 1
+Round: 8| client: 0, class: 3
+Round: 8| client: 3, class: 2
+Round: 8| client: 2, class: 2
+Round: 8| client: 1, class: 3
+classes: [{8, 9}, {4, 5}, {2, 3}, {0, 1}, {6, 7}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 0.9888888888888889, Error rate: 0.011111111111111112
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 9| client: 7, class: 0
+Round: 9| client: 8, class: 1
+Round: 9| client: 9, class: 1
+Round: 9| client: 6, class: 0
+Round: 9| client: 5, class: 4
+Round: 9| client: 4, class: 4
+Round: 9| client: 0, class: 2
+Round: 9| client: 3, class: 3
+Round: 9| client: 2, class: 3
+Round: 9| client: 1, class: 2
+classes: [{6, 7}, {8, 9}, {0, 1}, {2, 3}, {4, 5}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 0.99, Error rate: 0.01
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 10| client: 7, class: 1
+Round: 10| client: 8, class: 2
+Round: 10| client: 9, class: 2
+Round: 10| client: 6, class: 1
+Round: 10| client: 5, class: 3
+Round: 10| client: 4, class: 3
+Round: 10| client: 0, class: 4
+Round: 10| client: 3, class: 0
+Round: 10| client: 2, class: 2
+Round: 10| client: 1, class: 4
+classes: [{3}, {6, 7}, {8, 9, 2}, {4, 5}, {0, 1}]
+Error: [0, 0, 1, 0, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.9818181818181818, Error rate: 0.01818181818181818
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 11| client: 7, class: 1
+Round: 11| client: 8, class: 1
+Round: 11| client: 9, class: 1
+Round: 11| client: 6, class: 4
+Round: 11| client: 5, class: 1
+Round: 11| client: 4, class: 0
+Round: 11| client: 0, class: 2
+Round: 11| client: 3, class: 3
+Round: 11| client: 2, class: 3
+Round: 11| client: 1, class: 2
+classes: [{4}, {8, 9, 5, 7}, {0, 1}, {2, 3}, {6}]
+Error: [1, 0, 0, 0, 1]
+Round Correct: 0.8, Round Incorrect: 0.2
+Total cluster accuracy: 0.9666666666666667, Error rate: 0.03333333333333333
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 12| client: 7, class: 1
+Round: 12| client: 8, class: 2
+Round: 12| client: 9, class: 2
+Round: 12| client: 6, class: 1
+Round: 12| client: 5, class: 3
+Round: 12| client: 4, class: 1
+Round: 12| client: 0, class: 4
+Round: 12| client: 3, class: 0
+Round: 12| client: 2, class: 0
+Round: 12| client: 1, class: 4
+classes: [{2, 3}, {4, 6, 7}, {8, 9}, {5}, {0, 1}]
+Error: [0, 1, 0, 0, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.9615384615384616, Error rate: 0.038461538461538464
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 13| client: 7, class: 1
+Round: 13| client: 8, class: 4
+Round: 13| client: 9, class: 4
+Round: 13| client: 6, class: 2
+Round: 13| client: 5, class: 2
+Round: 13| client: 4, class: 2
+Round: 13| client: 0, class: 0
+Round: 13| client: 3, class: 3
+Round: 13| client: 2, class: 3
+Round: 13| client: 1, class: 2
+classes: [{0}, {7}, {1, 4, 5, 6}, {2, 3}, {8, 9}]
+Error: [1, 0, 1, 0, 0]
+Round Correct: 0.8, Round Incorrect: 0.2
+Total cluster accuracy: 0.95, Error rate: 0.05
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 14| client: 7, class: 1
+Round: 14| client: 8, class: 1
+Round: 14| client: 9, class: 3
+Round: 14| client: 6, class: 1
+Round: 14| client: 5, class: 2
+Round: 14| client: 4, class: 1
+Round: 14| client: 0, class: 0
+Round: 14| client: 3, class: 4
+Round: 14| client: 2, class: 4
+Round: 14| client: 1, class: 0
+classes: [{0, 1}, {8, 4, 6, 7}, {5}, {9}, {2, 3}]
+Error: [0, 2, 0, 0, 0]
+Round Correct: 0.8, Round Incorrect: 0.2
+Total cluster accuracy: 0.94, Error rate: 0.06
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 15| client: 7, class: 1
+Round: 15| client: 8, class: 2
+Round: 15| client: 9, class: 2
+Round: 15| client: 6, class: 1
+Round: 15| client: 5, class: 4
+Round: 15| client: 4, class: 4
+Round: 15| client: 0, class: 1
+Round: 15| client: 3, class: 3
+Round: 15| client: 2, class: 0
+Round: 15| client: 1, class: 1
+classes: [{2}, {0, 1, 6, 7}, {8, 9}, {3}, {4, 5}]
+Error: [1, 2, 0, 0, 0]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.925, Error rate: 0.075
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 16| client: 7, class: 1
+Round: 16| client: 8, class: 0
+Round: 16| client: 9, class: 0
+Round: 16| client: 6, class: 1
+Round: 16| client: 5, class: 2
+Round: 16| client: 4, class: 1
+Round: 16| client: 0, class: 4
+Round: 16| client: 3, class: 3
+Round: 16| client: 2, class: 3
+Round: 16| client: 1, class: 4
+classes: [{8, 9}, {4, 6, 7}, {5}, {2, 3}, {0, 1}]
+Error: [0, 1, 0, 0, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.9235294117647059, Error rate: 0.07647058823529412
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 17| client: 7, class: 2
+Round: 17| client: 8, class: 4
+Round: 17| client: 9, class: 4
+Round: 17| client: 6, class: 2
+Round: 17| client: 5, class: 2
+Round: 17| client: 4, class: 0
+Round: 17| client: 0, class: 2
+Round: 17| client: 3, class: 1
+Round: 17| client: 2, class: 3
+Round: 17| client: 1, class: 2
+classes: [{4}, {3}, {0, 1, 5, 6, 7}, {2}, {8, 9}]
+Error: [1, 0, 2, 1, 0]
+Round Correct: 0.6, Round Incorrect: 0.4
+Total cluster accuracy: 0.9055555555555556, Error rate: 0.09444444444444444
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 18| client: 7, class: 0
+Round: 18| client: 8, class: 1
+Round: 18| client: 9, class: 1
+Round: 18| client: 6, class: 0
+Round: 18| client: 5, class: 2
+Round: 18| client: 4, class: 4
+Round: 18| client: 0, class: 0
+Round: 18| client: 3, class: 3
+Round: 18| client: 2, class: 3
+Round: 18| client: 1, class: 0
+classes: [{0, 1, 6, 7}, {8, 9}, {5}, {2, 3}, {4}]
+Error: [2, 0, 0, 0, 1]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.8947368421052632, Error rate: 0.10526315789473684
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 19| client: 7, class: 1
+Round: 19| client: 8, class: 2
+Round: 19| client: 9, class: 1
+Round: 19| client: 6, class: 1
+Round: 19| client: 5, class: 1
+Round: 19| client: 4, class: 3
+Round: 19| client: 0, class: 1
+Round: 19| client: 3, class: 0
+Round: 19| client: 2, class: 4
+Round: 19| client: 1, class: 1
+classes: [{3}, {0, 1, 5, 6, 7, 9}, {8}, {4}, {2}]
+Error: [0, 2, 1, 1, 1]
+Round Correct: 0.5, Round Incorrect: 0.5
+Total cluster accuracy: 0.875, Error rate: 0.125
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 20| client: 7, class: 2
+Round: 20| client: 8, class: 1
+Round: 20| client: 9, class: 1
+Round: 20| client: 6, class: 2
+Round: 20| client: 5, class: 4
+Round: 20| client: 4, class: 0
+Round: 20| client: 0, class: 2
+Round: 20| client: 3, class: 3
+Round: 20| client: 2, class: 3
+Round: 20| client: 1, class: 2
+classes: [{4}, {8, 9}, {0, 1, 6, 7}, {2, 3}, {5}]
+Error: [1, 0, 2, 0, 0]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.8666666666666667, Error rate: 0.13333333333333333
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 21| client: 7, class: 0
+Round: 21| client: 8, class: 1
+Round: 21| client: 9, class: 1
+Round: 21| client: 6, class: 0
+Round: 21| client: 5, class: 2
+Round: 21| client: 4, class: 0
+Round: 21| client: 0, class: 3
+Round: 21| client: 3, class: 0
+Round: 21| client: 2, class: 4
+Round: 21| client: 1, class: 0
+classes: [{1, 3, 4, 6, 7}, {8, 9}, {5}, {0}, {2}]
+Error: [1, 0, 0, 1, 1]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.8590909090909091, Error rate: 0.1409090909090909
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 22| client: 7, class: 1
+Round: 22| client: 8, class: 0
+Round: 22| client: 9, class: 4
+Round: 22| client: 6, class: 1
+Round: 22| client: 5, class: 1
+Round: 22| client: 4, class: 1
+Round: 22| client: 0, class: 1
+Round: 22| client: 3, class: 3
+Round: 22| client: 2, class: 2
+Round: 22| client: 1, class: 1
+classes: [{8}, {0, 1, 4, 5, 6, 7}, {2}, {3}, {9}]
+Error: [1, 4, 1, 0, 0]
+Round Correct: 0.4, Round Incorrect: 0.6
+Total cluster accuracy: 0.8391304347826087, Error rate: 0.1608695652173913
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 23| client: 7, class: 0
+Round: 23| client: 8, class: 3
+Round: 23| client: 9, class: 3
+Round: 23| client: 6, class: 0
+Round: 23| client: 5, class: 1
+Round: 23| client: 4, class: 1
+Round: 23| client: 0, class: 1
+Round: 23| client: 3, class: 2
+Round: 23| client: 2, class: 4
+Round: 23| client: 1, class: 1
+classes: [{6, 7}, {0, 1, 4, 5}, {3}, {8, 9}, {2}]
+Error: [0, 2, 0, 0, 1]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.8333333333333334, Error rate: 0.16666666666666666
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 24| client: 7, class: 3
+Round: 24| client: 8, class: 3
+Round: 24| client: 9, class: 4
+Round: 24| client: 6, class: 3
+Round: 24| client: 5, class: 3
+Round: 24| client: 4, class: 3
+Round: 24| client: 0, class: 1
+Round: 24| client: 3, class: 2
+Round: 24| client: 2, class: 0
+Round: 24| client: 1, class: 3
+classes: [{2}, {0}, {3}, {1, 4, 5, 6, 7, 8}, {9}]
+Error: [1, 1, 0, 3, 0]
+Round Correct: 0.5, Round Incorrect: 0.5
+Total cluster accuracy: 0.82, Error rate: 0.18
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 25| client: 7, class: 1
+Round: 25| client: 8, class: 0
+Round: 25| client: 9, class: 1
+Round: 25| client: 6, class: 1
+Round: 25| client: 5, class: 4
+Round: 25| client: 4, class: 4
+Round: 25| client: 0, class: 1
+Round: 25| client: 3, class: 3
+Round: 25| client: 2, class: 2
+Round: 25| client: 1, class: 1
+classes: [{8}, {0, 1, 6, 7, 9}, {2}, {3}, {4, 5}]
+Error: [1, 2, 1, 0, 0]
+Round Correct: 0.6, Round Incorrect: 0.4
+Total cluster accuracy: 0.8115384615384615, Error rate: 0.18846153846153846
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 26| client: 7, class: 1
+Round: 26| client: 8, class: 3
+Round: 26| client: 9, class: 0
+Round: 26| client: 6, class: 1
+Round: 26| client: 5, class: 3
+Round: 26| client: 4, class: 3
+Round: 26| client: 0, class: 4
+Round: 26| client: 3, class: 2
+Round: 26| client: 2, class: 2
+Round: 26| client: 1, class: 4
+classes: [{9}, {6, 7}, {2, 3}, {8, 4, 5}, {0, 1}]
+Error: [0, 0, 0, 1, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.8148148148148148, Error rate: 0.18518518518518517
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 27| client: 7, class: 1
+Round: 27| client: 8, class: 0
+Round: 27| client: 9, class: 0
+Round: 27| client: 6, class: 1
+Round: 27| client: 5, class: 2
+Round: 27| client: 4, class: 2
+Round: 27| client: 0, class: 3
+Round: 27| client: 3, class: 4
+Round: 27| client: 2, class: 4
+Round: 27| client: 1, class: 3
+classes: [{8, 9}, {6, 7}, {4, 5}, {0, 1}, {2, 3}]
+Error: [0, 0, 0, 0, 0]
+Round Correct: 1.0, Round Incorrect: 0.0
+Total cluster accuracy: 0.8214285714285714, Error rate: 0.17857142857142858
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 28| client: 7, class: 0
+Round: 28| client: 8, class: 3
+Round: 28| client: 9, class: 3
+Round: 28| client: 6, class: 0
+Round: 28| client: 5, class: 4
+Round: 28| client: 4, class: 4
+Round: 28| client: 0, class: 1
+Round: 28| client: 3, class: 1
+Round: 28| client: 2, class: 2
+Round: 28| client: 1, class: 1
+classes: [{6, 7}, {0, 1, 3}, {2}, {8, 9}, {4, 5}]
+Error: [0, 0, 1, 0, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.8241379310344827, Error rate: 0.17586206896551723
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 29| client: 7, class: 0
+Round: 29| client: 8, class: 2
+Round: 29| client: 9, class: 2
+Round: 29| client: 6, class: 0
+Round: 29| client: 5, class: 0
+Round: 29| client: 4, class: 0
+Round: 29| client: 0, class: 4
+Round: 29| client: 3, class: 1
+Round: 29| client: 2, class: 3
+Round: 29| client: 1, class: 0
+classes: [{1, 4, 5, 6, 7}, {3}, {8, 9}, {2}, {0}]
+Error: [2, 0, 0, 1, 1]
+Round Correct: 0.6, Round Incorrect: 0.4
+Total cluster accuracy: 0.8166666666666667, Error rate: 0.18333333333333332
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 30| client: 7, class: 2
+Round: 30| client: 8, class: 0
+Round: 30| client: 9, class: 0
+Round: 30| client: 6, class: 2
+Round: 30| client: 5, class: 4
+Round: 30| client: 4, class: 1
+Round: 30| client: 0, class: 3
+Round: 30| client: 3, class: 3
+Round: 30| client: 2, class: 3
+Round: 30| client: 1, class: 3
+classes: [{8, 9}, {4}, {6, 7}, {0, 1, 2, 3}, {5}]
+Error: [0, 1, 0, 2, 0]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.8129032258064516, Error rate: 0.1870967741935484
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 31| client: 7, class: 1
+Round: 31| client: 8, class: 0
+Round: 31| client: 9, class: 0
+Round: 31| client: 6, class: 1
+Round: 31| client: 5, class: 3
+Round: 31| client: 4, class: 3
+Round: 31| client: 0, class: 4
+Round: 31| client: 3, class: 2
+Round: 31| client: 2, class: 4
+Round: 31| client: 1, class: 4
+classes: [{8, 9}, {6, 7}, {3}, {4, 5}, {0, 1, 2}]
+Error: [0, 0, 0, 0, 1]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.815625, Error rate: 0.184375
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 32| client: 7, class: 4
+Round: 32| client: 8, class: 2
+Round: 32| client: 9, class: 2
+Round: 32| client: 6, class: 4
+Round: 32| client: 5, class: 0
+Round: 32| client: 4, class: 4
+Round: 32| client: 0, class: 3
+Round: 32| client: 3, class: 1
+Round: 32| client: 2, class: 1
+Round: 32| client: 1, class: 3
+classes: [{5}, {2, 3}, {8, 9}, {0, 1}, {4, 6, 7}]
+Error: [0, 0, 0, 0, 1]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.8181818181818182, Error rate: 0.18181818181818182
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 33| client: 7, class: 1
+Round: 33| client: 8, class: 2
+Round: 33| client: 9, class: 2
+Round: 33| client: 6, class: 3
+Round: 33| client: 5, class: 1
+Round: 33| client: 4, class: 4
+Round: 33| client: 0, class: 1
+Round: 33| client: 3, class: 0
+Round: 33| client: 2, class: 0
+Round: 33| client: 1, class: 1
+classes: [{2, 3}, {0, 1, 5, 7}, {8, 9}, {6}, {4}]
+Error: [0, 0, 0, 1, 1]
+Round Correct: 0.8, Round Incorrect: 0.2
+Total cluster accuracy: 0.8176470588235294, Error rate: 0.18235294117647058
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 34| client: 7, class: 4
+Round: 34| client: 8, class: 0
+Round: 34| client: 9, class: 0
+Round: 34| client: 6, class: 4
+Round: 34| client: 5, class: 4
+Round: 34| client: 4, class: 3
+Round: 34| client: 0, class: 4
+Round: 34| client: 3, class: 2
+Round: 34| client: 2, class: 1
+Round: 34| client: 1, class: 4
+classes: [{8, 9}, {2}, {3}, {4}, {0, 1, 5, 6, 7}]
+Error: [0, 1, 0, 1, 2]
+Round Correct: 0.6, Round Incorrect: 0.4
+Total cluster accuracy: 0.8114285714285714, Error rate: 0.18857142857142858
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 35| client: 7, class: 0
+Round: 35| client: 8, class: 2
+Round: 35| client: 9, class: 2
+Round: 35| client: 6, class: 0
+Round: 35| client: 5, class: 1
+Round: 35| client: 4, class: 1
+Round: 35| client: 0, class: 0
+Round: 35| client: 3, class: 4
+Round: 35| client: 2, class: 4
+Round: 35| client: 1, class: 3
+classes: [{0, 6, 7}, {4, 5}, {8, 9}, {1}, {2, 3}]
+Error: [1, 0, 0, 0, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.8138888888888889, Error rate: 0.18611111111111112
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 36| client: 7, class: 1
+Round: 36| client: 8, class: 2
+Round: 36| client: 9, class: 4
+Round: 36| client: 6, class: 1
+Round: 36| client: 5, class: 1
+Round: 36| client: 4, class: 1
+Round: 36| client: 0, class: 1
+Round: 36| client: 3, class: 3
+Round: 36| client: 2, class: 0
+Round: 36| client: 1, class: 1
+classes: [{2}, {0, 1, 4, 5, 6, 7}, {8}, {3}, {9}]
+Error: [1, 4, 1, 0, 0]
+Round Correct: 0.4, Round Incorrect: 0.6
+Total cluster accuracy: 0.8027027027027027, Error rate: 0.1972972972972973
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 37| client: 7, class: 1
+Round: 37| client: 8, class: 0
+Round: 37| client: 9, class: 4
+Round: 37| client: 6, class: 1
+Round: 37| client: 5, class: 1
+Round: 37| client: 4, class: 1
+Round: 37| client: 0, class: 1
+Round: 37| client: 3, class: 2
+Round: 37| client: 2, class: 3
+Round: 37| client: 1, class: 1
+classes: [{8}, {0, 1, 4, 5, 6, 7}, {3}, {2}, {9}]
+Error: [1, 4, 0, 1, 0]
+Round Correct: 0.4, Round Incorrect: 0.6
+Total cluster accuracy: 0.7921052631578948, Error rate: 0.20789473684210527
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 38| client: 7, class: 0
+Round: 38| client: 8, class: 0
+Round: 38| client: 9, class: 3
+Round: 38| client: 6, class: 0
+Round: 38| client: 5, class: 4
+Round: 38| client: 4, class: 0
+Round: 38| client: 0, class: 0
+Round: 38| client: 3, class: 2
+Round: 38| client: 2, class: 1
+Round: 38| client: 1, class: 0
+classes: [{0, 1, 4, 6, 7, 8}, {2}, {3}, {9}, {5}]
+Error: [4, 1, 0, 0, 0]
+Round Correct: 0.5, Round Incorrect: 0.5
+Total cluster accuracy: 0.7846153846153846, Error rate: 0.2153846153846154
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 39| client: 7, class: 4
+Round: 39| client: 8, class: 2
+Round: 39| client: 9, class: 1
+Round: 39| client: 6, class: 4
+Round: 39| client: 5, class: 3
+Round: 39| client: 4, class: 1
+Round: 39| client: 0, class: 1
+Round: 39| client: 3, class: 0
+Round: 39| client: 2, class: 1
+Round: 39| client: 1, class: 1
+classes: [{3}, {0, 1, 2, 4, 9}, {8}, {5}, {6, 7}]
+Error: [0, 2, 1, 0, 0]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.7825, Error rate: 0.2175
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 40| client: 7, class: 3
+Round: 40| client: 8, class: 0
+Round: 40| client: 9, class: 4
+Round: 40| client: 6, class: 3
+Round: 40| client: 5, class: 0
+Round: 40| client: 4, class: 0
+Round: 40| client: 0, class: 0
+Round: 40| client: 3, class: 1
+Round: 40| client: 2, class: 2
+Round: 40| client: 1, class: 0
+classes: [{0, 1, 4, 5, 8}, {3}, {2}, {6, 7}, {9}]
+Error: [3, 0, 1, 0, 0]
+Round Correct: 0.6, Round Incorrect: 0.4
+Total cluster accuracy: 0.7780487804878049, Error rate: 0.22195121951219512
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 41| client: 7, class: 0
+Round: 41| client: 8, class: 3
+Round: 41| client: 9, class: 3
+Round: 41| client: 6, class: 4
+Round: 41| client: 5, class: 1
+Round: 41| client: 4, class: 1
+Round: 41| client: 0, class: 1
+Round: 41| client: 3, class: 2
+Round: 41| client: 2, class: 2
+Round: 41| client: 1, class: 1
+classes: [{7}, {0, 1, 4, 5}, {2, 3}, {8, 9}, {6}]
+Error: [0, 2, 0, 0, 1]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.7761904761904762, Error rate: 0.22380952380952382
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 42| client: 7, class: 2
+Round: 42| client: 8, class: 3
+Round: 42| client: 9, class: 3
+Round: 42| client: 6, class: 2
+Round: 42| client: 5, class: 0
+Round: 42| client: 4, class: 0
+Round: 42| client: 0, class: 2
+Round: 42| client: 3, class: 4
+Round: 42| client: 2, class: 1
+Round: 42| client: 1, class: 2
+classes: [{4, 5}, {2}, {0, 1, 6, 7}, {8, 9}, {3}]
+Error: [0, 1, 2, 0, 0]
+Round Correct: 0.7, Round Incorrect: 0.3
+Total cluster accuracy: 0.7744186046511627, Error rate: 0.2255813953488372
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 43| client: 7, class: 2
+Round: 43| client: 8, class: 1
+Round: 43| client: 9, class: 4
+Round: 43| client: 6, class: 2
+Round: 43| client: 5, class: 3
+Round: 43| client: 4, class: 3
+Round: 43| client: 0, class: 1
+Round: 43| client: 3, class: 0
+Round: 43| client: 2, class: 0
+Round: 43| client: 1, class: 1
+classes: [{2, 3}, {8, 0, 1}, {6, 7}, {4, 5}, {9}]
+Error: [0, 1, 0, 0, 0]
+Round Correct: 0.9, Round Incorrect: 0.1
+Total cluster accuracy: 0.7772727272727272, Error rate: 0.22272727272727272
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 44| client: 7, class: 3
+Round: 44| client: 8, class: 4
+Round: 44| client: 9, class: 2
+Round: 44| client: 6, class: 0
+Round: 44| client: 5, class: 0
+Round: 44| client: 4, class: 0
+Round: 44| client: 0, class: 0
+Round: 44| client: 3, class: 1
+Round: 44| client: 2, class: 0
+Round: 44| client: 1, class: 0
+classes: [{0, 1, 2, 4, 5, 6}, {3}, {9}, {7}, {8}]
+Error: [4, 0, 0, 0, 1]
+Round Correct: 0.5, Round Incorrect: 0.5
+Total cluster accuracy: 0.7711111111111111, Error rate: 0.2288888888888889
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 45| client: 7, class: 2
+Round: 45| client: 8, class: 3
+Round: 45| client: 9, class: 3
+Round: 45| client: 6, class: 1
+Round: 45| client: 5, class: 0
+Round: 45| client: 4, class: 0
+Round: 45| client: 0, class: 1
+Round: 45| client: 3, class: 1
+Round: 45| client: 2, class: 4
+Round: 45| client: 1, class: 1
+classes: [{4, 5}, {0, 1, 3, 6}, {7}, {8, 9}, {2}]
+Error: [0, 1, 0, 0, 1]
+Round Correct: 0.8, Round Incorrect: 0.2
+Total cluster accuracy: 0.7717391304347826, Error rate: 0.22826086956521738
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 46| client: 7, class: 4
+Round: 46| client: 8, class: 2
+Round: 46| client: 9, class: 1
+Round: 46| client: 6, class: 4
+Round: 46| client: 5, class: 1
+Round: 46| client: 4, class: 3
+Round: 46| client: 0, class: 1
+Round: 46| client: 3, class: 0
+Round: 46| client: 2, class: 0
+Round: 46| client: 1, class: 1
+classes: [{2, 3}, {0, 9, 5, 1}, {8}, {4}, {6, 7}]
+Error: [0, 0, 1, 1, 0]
+Round Correct: 0.8, Round Incorrect: 0.2
+Total cluster accuracy: 0.7723404255319148, Error rate: 0.2276595744680851
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 47| client: 7, class: 4
+Round: 47| client: 8, class: 0
+Round: 47| client: 9, class: 0
+Round: 47| client: 6, class: 3
+Round: 47| client: 5, class: 3
+Round: 47| client: 4, class: 3
+Round: 47| client: 0, class: 3
+Round: 47| client: 3, class: 2
+Round: 47| client: 2, class: 1
+Round: 47| client: 1, class: 3
+classes: [{8, 9}, {2}, {3}, {0, 1, 4, 5, 6}, {7}]
+Error: [0, 1, 0, 3, 0]
+Round Correct: 0.6, Round Incorrect: 0.4
+Total cluster accuracy: 0.76875, Error rate: 0.23125
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 48| client: 7, class: 1
+Round: 48| client: 8, class: 2
+Round: 48| client: 9, class: 2
+Round: 48| client: 6, class: 0
+Round: 48| client: 5, class: 1
+Round: 48| client: 4, class: 1
+Round: 48| client: 0, class: 1
+Round: 48| client: 3, class: 3
+Round: 48| client: 2, class: 4
+Round: 48| client: 1, class: 1
+classes: [{6}, {0, 1, 4, 5, 7}, {8, 9}, {3}, {2}]
+Error: [1, 2, 0, 0, 1]
+Round Correct: 0.6, Round Incorrect: 0.4
+Total cluster accuracy: 0.7653061224489796, Error rate: 0.23469387755102042
+= = = = = = = = = = = = = = = = = = = = = = = = 
+Round: 49| client: 7, class: 0
+Round: 49| client: 8, class: 0
+Round: 49| client: 9, class: 4
+Round: 49| client: 6, class: 0
+Round: 49| client: 5, class: 0
+Round: 49| client: 4, class: 0
+Round: 49| client: 0, class: 0
+Round: 49| client: 3, class: 2
+Round: 49| client: 2, class: 3
+Round: 49| client: 1, class: 1
+classes: [{0, 4, 5, 6, 7, 8}, {1}, {3}, {2}, {9}]
+Error: [4, 0, 0, 1, 0]
+Round Correct: 0.5, Round Incorrect: 0.5
+Total cluster accuracy: 0.76, Error rate: 0.24
+= = = = = = = = = = = = = = = = = = = = = = = = 
